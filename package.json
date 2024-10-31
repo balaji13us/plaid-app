@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.7",
     "csv-writer": "^1.6.0",
+    "https-proxy-agent": "^7.0.5",
     "plaid-client-app": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
